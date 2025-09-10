@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-I'm a Farid Sebastian Coronel Espinoza, a Software Engineering student, I specialize on backend development and API REST design 👨‍💻. I'm constantly exploring new architectures and best practices to enhance system performance and reliability.
+I'm Farid Sebastian Coronel Espinoza, a Software Engineering student, I specialize on backend development and API REST design 👨‍💻. I'm constantly exploring new architectures and best practices to enhance system performance and reliability.
 
 ## Skills
 
